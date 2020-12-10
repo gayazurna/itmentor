@@ -3,7 +3,7 @@
 
 ![itmentor](https://github.com/gayazurna/itmentor/blob/final-heroku/client/public/img/pic.png)
 
-## Searcg
+## Search
 Here you can make search by skills, price and your timezone:
 ![itmentor_search](https://github.com/gayazurna/itmentor/blob/final-heroku/client/public/img/pic2.png)
 
