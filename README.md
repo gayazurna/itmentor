@@ -7,7 +7,7 @@
 Here you can make search by skills, price and your timezone:
 ![itmentor_search](https://github.com/gayazurna/itmentor/blob/final-heroku/client/public/img/pic2.png)
 
-Used stack: 
+**Used stack:** 
 React, Redux, MongoDB, Mongoose, Express, CORS, Passport.js. 
 
 Team:
