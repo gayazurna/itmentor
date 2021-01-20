@@ -11,6 +11,8 @@ Here you can make search by skills, price and your timezone:
 React, Redux, MongoDB, Mongoose, Express, CORS, Passport.js. 
 
 Team:
-Anastasiia Soltoeva,
+Anastasiia Soktoeva,
 Gayane Zurnachyan,
 Roman Dubinkin.
+
+https://servertestmentor.herokuapp.com/
